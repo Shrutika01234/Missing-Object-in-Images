@@ -31,4 +31,4 @@ Run the script:
 
 !https://github.com/Shrutika01234/Missing-Object-in-Images/blob/main/output.png)<br>
 !(https://github.com/Shrutika01234/Missing-Object-in-Images/blob/main/output1.png)<br>
-!(https://github.com/Shrutika01234/Missing-Object-in-Images/blob/main/Missing Object.png)<>br
+!(https://github.com/Shrutika01234/Missing-Object-in-Images/blob/main/Missing%20Object.png)<>br
